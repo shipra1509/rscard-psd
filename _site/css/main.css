@@ -206,12 +206,6 @@ body #work-experience {
     padding: 20px 0 20px;
     position: relative;
     bottom: 0; }
-    body #work-experience .timeline .green-bar {
-      min-height: 1vh;
-      background-color: #26CB63;
-      margin-top: 0;
-      padding-top: 0;
-      position: relative; }
   body #work-experience .timeline:before {
     top: 10vh;
     bottom: 37vh;
